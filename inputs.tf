@@ -1,4 +1,4 @@
-variable "server-name" {
+variable "server_name" {
   type = string
 }
 
