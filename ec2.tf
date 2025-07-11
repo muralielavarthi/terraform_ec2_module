@@ -3,6 +3,6 @@ resource "aws_instance" "this" {
   vpc_security_group_ids = [var.sg_id]
   instance_type = var.instance_type
   tags = {
-    Name =var.server-name
+    Name =var.server_name
   }
 }
