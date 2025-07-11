@@ -5,6 +5,7 @@
 - ami_id(Mandatory): User must supply ami_id
 - sg_id(Mandatory): User must supply sg_id
 - instance_type(Mandatory): User must supply
+- server_name(Mandarory): User must supply
 
 **Outputs:**
 
