@@ -1,15 +1,15 @@
 variable "server-name" {
-  default = string
+  type = string
 }
 
 variable "sg_id" {
-  default = string
+  type = string
 }
 
 variable "ami_id" {
-  default = string
+  type = string
 }
 
 variable "instance_type" {
-  default = string
+  type = string
 }
